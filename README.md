@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<h1 align="center"> I'm Zorigto</a> 
+<h3 align="center">Computer science student from Russia 🇷🇺</h3>
 <!--
 **Zorigto2001/Zorigto2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
